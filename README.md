@@ -1,4 +1,4 @@
-# Two-String-Anagra
+# Two-String-Anagram
 // isAnagram("listen", "silent")     -> true
   // isAnagram("triangle", "integral") -> true
   // isAnagram("abc", "bca")           -> true
